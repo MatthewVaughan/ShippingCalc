@@ -1,0 +1,12 @@
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.exe.config
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.exe
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.pdb
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.csprojResolveAssemblyReference.cache
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.FrmMain.resources
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.Properties.Resources.resources
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.csproj.GenerateResource.Cache
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.exe
+c:\users\mattm_000\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400Proj\Project06\Project06\bin\Debug\Project06.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400Proj\Project06\Project06\obj\Debug\Project06.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400Proj\Project06\Project06\obj\Debug\Project06.pdb
